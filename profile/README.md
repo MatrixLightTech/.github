@@ -1,9 +1,13 @@
 ## StarLake Studio Introduction
-StarLake Studio is an integrated team focusing on technology and internet industries, adhering to the motto "Born for Ultimate Experience". We bridge technological innovation and user needs by integrating cutting-edge capabilities in AI algorithms, big data analysis, interactive design, 和 end-to-end service delivery.
-"Star" embodies our ambition to explore frontier technologies—from intelligent system development to internet product iteration, we constantly push technical boundaries. "Lake" symbolizes our inclusive ecosystem philosophy: we collaborate with enterprise clients to build digital solutions while listening to user needs, ensuring every technological implementation carries life-like warmth.
-Whether creating efficient digital tools for businesses or crafting seamless product experiences for users, we believe true technological value lies in tangible, exceptional user experiences. At StarLake, technology is not just about functionality—it’s the power that makes every interaction shine.
+Our story began with the founding vision of "Star Lake Studio": to make technology resonate with the real world. Today, we continue this journey under a new name, MatrixLight.Tech.
+
+"Matrix" defines our methodology—building upon the cloud, with algorithmic precision at our core, to construct a robust and intelligent digital foundation. "Light-Year" embodies our ethos—embracing a long-term vision, where every technological delivery becomes a beacon illuminating our users' path forward.
+
+We are not just problem-solvers, but co-creators of the future. Whether crafting enterprise-grade cloud services or meticulously shaping user-centric digital and gaming products, we hold this belief firm: Truly great technology must crystallize into a tangible, exceptional experience.
 
 ## 星辰云湖工作室介绍
-星辰云湖工作室是专注于科技与互联网领域的综合团队，秉持 “为极致的体验而生” 的理念，致力于搭建技术创新与用户需求之间的桥梁。我们融合 AI 算法、大数据分析、交互设计等前沿能力，提供从技术底层到落地交付的全链路服务。
-“星辰” 承载着我们对前沿科技的探索野心 —— 从智能系统开发到互联网产品迭代，始终以突破技术边界为目标；“云湖” 象征着包容协同的生态理念：我们与企业客户共建数字化解决方案，同时倾听用户真实需求，让每一次技术落地都传递生活温度。
-无论是为企业打造高效的数字化工具，还是为用户雕琢流畅的产品体验，我们始终坚信：真正的科技价值，终将沉淀为触手可及的极致感受。在星辰云湖，技术不止于功能，更是让每一次交互发光的力量。
+我们始于“星辰云湖”的初心：用技术触摸真实的世界。如今，我们以“云钜光年”为名再次出发。
+
+“云钜”是我们的方法论——以云为基，以矩阵算法为核，构建稳固而智能的数字底座； “光年”是我们的价值观——怀抱长远眼光，让每一次技术交付，都成为照亮用户未来的光。
+
+我们不仅是问题的解决者，更是未来的共建者。无论是打造企业级云服务，还是雕琢面向用户的数码与游戏产品，我们始终坚信：卓越的技术，终将沉淀为触手可及的极致感受。
