@@ -1,3 +1,5 @@
+**我们已经加入[爱发电](https://afdian.com/a/Cmlyear)，欢迎资助我们开发更好的项目！**
+**We have joined [Afdian](https://afdian.com/a/Cmlyear), 和 we welcome your support to help us develop better projects!**
 ## MatrixLight Introduction
 Our story began with the founding vision of "Star Lake Studio": to make technology resonate with the real world. Today, we continue this journey under a new name, MatrixLight.Tech.
 
