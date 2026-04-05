@@ -1,4 +1,4 @@
-**The Final Chapter: Beyond the Light-Year**
+**The Final Chapter: Beyond the Light-Year**  
 Status: Archived (2019 - 2026)
 
 Every star has its cycle, from the first spark of "Star Lake" to the expansive vision of "MatrixLight". Today, the lighthouse of MatrixLight completes its final transmission. We have ceased all active development under this name, and this organization is now officially Archived.
@@ -7,7 +7,7 @@ But technology never dies; it only transforms. The core ethos we built here—th
 
 "The light of the past is the fuel for the future." Thank you for being part of our 7-year journey. 
 
-**终章：光年之外**
+**终章：光年之外**  
 状态：已存档 (2019 - 2026)
 
 从“星辰云湖”的初现，到“云矩光年”的远航，每一颗星辰都有其宿命的周期。今天，云矩光年的灯塔完成了最后一次信号传输。我们已正式停止该品牌下的所有开发活动，本组织即日起转为永久存档状态。
