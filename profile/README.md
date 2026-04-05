@@ -1,3 +1,23 @@
+**The Final Chapter: Beyond the Light-Year**
+Status: Archived (2019 - 2026)
+
+Every star has its cycle, from the first spark of "Star Lake" to the expansive vision of "MatrixLight". Today, the lighthouse of MatrixLight completes its final transmission. We have ceased all active development under this name, and this organization is now officially Archived.
+
+But technology never dies; it only transforms. The core ethos we built here—the precision of the "Matrix" and the far-reaching vision of the "Light-Year"—has been integrated into a new constellation.
+
+"The light of the past is the fuel for the future." Thank you for being part of our 7-year journey. 
+
+**终章：光年之外**
+状态：已存档 (2019 - 2026)
+
+从“星辰云湖”的初现，到“云矩光年”的远航，每一颗星辰都有其宿命的周期。今天，云矩光年的灯塔完成了最后一次信号传输。我们已正式停止该品牌下的所有开发活动，本组织即日起转为永久存档状态。
+
+然而，技术从未消亡，它只是在更高处重组。我们在此铸就的灵魂——那份对“云”的执着与对“矩阵”的精确，已悉数汇入新的星群。
+
+“旧日之光，皆为序章；前路星穹，方为归途。”
+
+感谢七年来的并肩同行。
+
 **我们已经加入[爱发电](https://afdian.com/a/Cmlyear)，欢迎资助我们开发更好的项目！**
 **We have joined [Afdian](https://afdian.com/a/Cmlyear),  we welcome your support to help us develop better projects!**
 ## MatrixLight Introduction
